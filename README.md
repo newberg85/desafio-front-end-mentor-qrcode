@@ -7,7 +7,7 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 - [overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+
   - [Built with](#built-with)
 
 
@@ -35,7 +35,7 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 
 
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
