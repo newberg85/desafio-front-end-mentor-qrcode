@@ -15,7 +15,7 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 - [Autor] (#autor)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
