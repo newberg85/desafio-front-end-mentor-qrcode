@@ -20,7 +20,7 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 ## Overview
 
 ### Screenshot
-
+![IMG_20220612_185118](https://user-images.githubusercontent.com/80040519/173255192-e1e7a78c-4c20-47b9-960a-7db89ab1d18a.jpg)
 https://github.com/newberg85/desafio-front-end-mentor-qrcode/issues/1#issue-1268711290
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
