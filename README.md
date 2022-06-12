@@ -13,7 +13,7 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 
 
 - [Autor](#Autor)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -53,8 +53,4 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 - Instagram - [@New.berg85](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.instagram.com/new.berg85/&ved=2ahUKEwihk-Wyhan4AhWjArkGHRPfDm8Qjjh6BAgHEAE&usg=AOvVaw2K5ZuwC3DJHMK4YkAZwUVM)
 
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
