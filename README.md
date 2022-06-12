@@ -12,7 +12,7 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 
   - [Continued development](#continued-development)
 
-- [Autor] (#Autor)
+- [Autor](#Autor)
 - [Acknowledgments](#acknowledgments)
 
 
