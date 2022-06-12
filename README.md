@@ -4,7 +4,7 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 
 ## Table of contents
 
-- [Overview](#overview)
+- [visão geral](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -17,7 +17,7 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 
 
 
-## Overview
+## visão geral
 
 ### Screenshot
 ![IMG_20220612_185118](https://user-images.githubusercontent.com/80040519/173255192-e1e7a78c-4c20-47b9-960a-7db89ab1d18a.jpg)
