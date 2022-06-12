@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://newberg85.github.io/desafio-front-end-mentor-qrcode/
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
