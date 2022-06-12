@@ -52,7 +52,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 when you look back on this project in the future.**
 
-## Author
+## Autor
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
