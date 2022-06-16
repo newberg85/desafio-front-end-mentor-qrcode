@@ -49,7 +49,7 @@ Esta é uma solução para [desafio do componente de código QR no Frontend Ment
 ## Autor
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@newberg85](https://www.frontendmentor.io/profile/newberg85)
 - Instagram - [@New.berg85](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.instagram.com/new.berg85/&ved=2ahUKEwihk-Wyhan4AhWjArkGHRPfDm8Qjjh6BAgHEAE&usg=AOvVaw2K5ZuwC3DJHMK4YkAZwUVM)
 
 
